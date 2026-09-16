@@ -25,10 +25,10 @@ L'application repose sur une architecture client-serveur classique avec une sép
 ##  Aperçu de l'application
 
 ### Page d'accueil (Produits récents)
-![Page d'accueil](Page_accueil.jpg)
+![Page d'accueil](Page_acceuil.jpg)
 
 ### Tous les produits
-![Tous les produits](Listes_produits.jpg)
+![Tous les produits](Listes_Produits.jpg)
 
 ### Panier et paiement
 ![Panier](panier.png)
